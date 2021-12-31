@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "basilisk_libs")(type "KiCad")(uri "${KIPRJMOD}/basilisk_libs.kicad_sym")(options "")(descr ""))
+)
