@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "basilisk_libs")(type "KiCad")(uri "${KIPRJMOD}/basilisk_libs.kicad_sym")(options "")(descr ""))
+  (lib (name "eec")(type "Legacy")(uri "C:/Users/samso/Documents/KiCad Part Libraries/STM32G030F6P6TR/eec.lib")(options "")(descr ""))
 )
