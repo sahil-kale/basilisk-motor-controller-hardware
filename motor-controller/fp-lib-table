@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "motor-controller")(type "KiCad")(uri "C:/Users/Sahil/Documents/GitHub/basilisk-motor-controller-hardware/motor-controller.pretty")(options "")(descr ""))
+  (lib (name "motor-controller-footprints")(type "KiCad")(uri "${KIPRJMOD}/motor-controller-footprints.pretty")(options "")(descr ""))
+)
