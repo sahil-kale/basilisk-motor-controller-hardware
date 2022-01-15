@@ -186,7 +186,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 0422140c-014b-41e0-8671-36d20870bdd2)
-    (at 142.24 155.067 180)
+    (at 141.224 154.559 180)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Digikey Part Num" "RMCF0603FT470RCT-ND")
@@ -194,7 +194,7 @@
     (property "Sheetname" "controller")
     (path "/a64d3074-4d79-49a2-86f7-39249c3118cd/8c5ed5a7-5b12-4eac-b94c-6a1210e0c93f")
     (attr smd)
-    (fp_text reference "R9" (at -2.54 -1.397 180) (layer "F.SilkS")
+    (fp_text reference "R9" (at -0.149361 -1.170157 180) (layer "F.SilkS")
       (effects (font (size 0.508 0.508) (thickness 0.127)))
       (tstamp 1233054b-3cfd-4da6-b0a8-1b5be424e108)
     )
@@ -455,7 +455,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 23a02f31-5e32-48c9-b3e7-c3cd5eff4618)
-    (at 165.090178 132.41423 90)
+    (at 164.50929 132.41423 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Digikey Part Num" "RNCP0603FTD4R70CT-ND")
@@ -541,7 +541,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp 26c4a61e-11f8-4b3b-ba39-f3fcddf39ff7)
-    (at 165.608 135.487544 -90)
+    (at 165.027112 135.487544 -90)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "motor-controller.kicad_sch")
@@ -603,7 +603,7 @@
 
   (footprint "LED_SMD:LED_Cree-PLCC4_3.2x2.8mm_CCW" (layer "F.Cu")
     (tedit 59D415EA) (tstamp 2eee3a44-4189-4a5f-ae30-76cd8c761d95)
-    (at 142.24 151.892 90)
+    (at 141.224 151.384 90)
     (descr "3.2mm x 2.8mm PLCC4 LED, http://www.cree.com/led-components/media/documents/CLV1AFKB(874).pdf")
     (tags "LED Cree PLCC-4")
     (property "Digikey Part Num" "CLV1A-FKB-CK1VW1DE1BB7C3C3CT-ND")
@@ -653,7 +653,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 3628d48d-f0d3-4899-9834-00c1001a4e1b)
-    (at 167.383739 132.414728 -90)
+    (at 166.802851 132.414728 -90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Digikey Part Num" "1276-3485-1-ND")
@@ -774,7 +774,7 @@
 
   (footprint "Diode_SMD:D_SMB" (layer "F.Cu")
     (tedit 58645DF3) (tstamp 54a861a1-960e-43ed-b92e-d097543c4f5d)
-    (at 144.781403 141.74745 -90)
+    (at 143.765403 141.74745 -90)
     (descr "Diode SMB (DO-214AA)")
     (tags "Diode SMB (DO-214AA)")
     (property "Digikey Part Num" "497-12627-1-ND")
@@ -887,7 +887,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp 5cb5c564-676d-444d-b6a2-6263e247b4b8)
-    (at 143.19297 135.65145 -90)
+    (at 142.612082 135.65145 -90)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "motor-controller.kicad_sch")
@@ -914,7 +914,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 5ea10311-383b-458b-9a2c-ef3b1ee696e6)
-    (at 144.928663 154.191772 90)
+    (at 143.912663 153.683772 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Digikey Part Num" "2019-RK73Z1JTTDCT-ND")
@@ -957,7 +957,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 67fc8066-dfe2-48d2-99ea-6ca7109f3f6b)
-    (at 144.781677 132.366127 -90)
+    (at 144.200789 132.366127 -90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Digikey Part Num" "1276-3485-1-ND")
@@ -1000,7 +1000,7 @@
 
   (footprint "Package_TO_SOT_SMD:TO-252-3_TabPin2" (layer "F.Cu")
     (tedit 5A70F30B) (tstamp 7212d2db-33fb-44e3-8262-0c843b5f4db7)
-    (at 167.366726 124.928159 90)
+    (at 166.785838 124.928159 90)
     (descr "TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/")
     (tags "DPAK TO-252 DPAK-3 TO-252-3 SOT-428")
     (property "Digikey Part Num" "MCU80N03-TPMSCT-ND")
@@ -1248,7 +1248,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp 8137fe5f-bd48-40f1-a797-85a375219cf7)
-    (at 158.496 135.531544 -90)
+    (at 157.915112 135.531544 -90)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "motor-controller.kicad_sch")
@@ -1275,7 +1275,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 91c50562-313d-47b2-a0a1-f24f5299df28)
-    (at 142.43097 132.34945 90)
+    (at 141.850082 132.34945 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Digikey Part Num" "RNCP0603FTD4R70CT-ND")
@@ -1318,7 +1318,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 956d9ec5-f49d-474d-a4f2-21220ab21e36)
-    (at 148.844 137.16)
+    (at 147.828 137.16)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Digikey Part Num" "399-14105-1-ND")
@@ -1404,7 +1404,7 @@
 
   (footprint "Package_TO_SOT_SMD:TO-252-3_TabPin2" (layer "F.Cu")
     (tedit 5A70F30B) (tstamp 9815cc89-b25e-4106-8a82-b308684744b5)
-    (at 144.852888 124.838065 90)
+    (at 144.272 124.838065 90)
     (descr "TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/")
     (tags "DPAK TO-252 DPAK-3 TO-252-3 SOT-428")
     (property "Digikey Part Num" "MCU80N03-TPMSCT-ND")
@@ -1498,7 +1498,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp aab41b09-0b15-4d6c-9dfb-6c672e9fe0d7)
-    (at 149.082034 146.812)
+    (at 148.066034 146.812)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Digikey Part Num" "1276-6470-1-ND")
@@ -1601,7 +1601,7 @@
 
   (footprint "Package_TO_SOT_SMD:TO-252-3_TabPin2" (layer "F.Cu")
     (tedit 5A70F30B) (tstamp b3eb90ae-3333-4d29-ab42-5ee3077cbec4)
-    (at 160.02 124.819544 90)
+    (at 159.439112 124.819544 90)
     (descr "TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/")
     (tags "DPAK TO-252 DPAK-3 TO-252-3 SOT-428")
     (property "Digikey Part Num" "MCU80N03-TPMSCT-ND")
@@ -1856,7 +1856,7 @@
 
   (footprint "Package_TO_SOT_SMD:TO-252-3_TabPin2" (layer "F.Cu")
     (tedit 5A70F30B) (tstamp bea97a22-78df-4df8-9a32-13449293f274)
-    (at 152.472888 124.838065 90)
+    (at 151.892 124.838065 90)
     (descr "TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/")
     (tags "DPAK TO-252 DPAK-3 TO-252-3 SOT-428")
     (property "Digikey Part Num" "MCU80N03-TPMSCT-ND")
@@ -1976,7 +1976,7 @@
 
   (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" (layer "F.Cu")
     (tedit 5D9F72B1) (tstamp c2ee8ea1-baae-4d2b-a191-7cfe273e1f19)
-    (at 149.86 141.732 90)
+    (at 148.844 141.732 90)
     (descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOIC SO")
     (property "Digikey Part Num" "IR2301SPBF-ND")
@@ -2034,7 +2034,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp c3cfd08d-d411-4433-8f8b-caf3f22d3c2b)
-    (at 160.02 132.439544 -90)
+    (at 159.439112 132.439544 -90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Digikey Part Num" "1276-3485-1-ND")
@@ -2077,7 +2077,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp ca70aeee-6cf2-48b8-9372-b15d51351914)
-    (at 144.940782 149.615769 90)
+    (at 143.924782 149.107769 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Digikey Part Num" "RMCF0603FT470RCT-ND")
@@ -2120,7 +2120,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp cbaa2193-5ee1-49c1-a869-52f324d08d48)
-    (at 153.800409 140.290689 90)
+    (at 152.784409 140.290689 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Digikey Part Num" "399-14105-1-ND")
@@ -2206,7 +2206,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp d634e398-e549-4652-ba5f-842e16929db7)
-    (at 150.186888 132.458065 90)
+    (at 149.606 132.458065 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Digikey Part Num" "RNCP0603FTD4R70CT-ND")
@@ -2249,7 +2249,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp df697609-a602-45ac-8726-0243e0cbae98)
-    (at 157.731274 132.429912 90)
+    (at 157.150386 132.429912 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Digikey Part Num" "RNCP0603FTD4R70CT-ND")
@@ -2292,7 +2292,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp e0b5633f-4004-4fb0-be6a-de8c79a046a9)
-    (at 152.472888 132.458065 -90)
+    (at 151.892 132.458065 -90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Digikey Part Num" "1276-3485-1-ND")
@@ -2413,7 +2413,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp ecbd7895-7450-4fd8-a18c-8ce2ca828280)
-    (at 142.24 148.717)
+    (at 141.224 148.209)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Digikey Part Num" "RMCF0603FT470RCT-ND")
@@ -2421,7 +2421,7 @@
     (property "Sheetname" "controller")
     (path "/a64d3074-4d79-49a2-86f7-39249c3118cd/61401ace-6062-427f-91fa-f6dac03626f6")
     (attr smd)
-    (fp_text reference "R11" (at -0.065849 -1.200414) (layer "F.SilkS")
+    (fp_text reference "R11" (at 0 -1.200414) (layer "F.SilkS")
       (effects (font (size 0.508 0.508) (thickness 0.127)))
       (tstamp a51f2971-6fcf-4bc5-9f39-fe5f74e09f66)
     )
@@ -2509,7 +2509,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp efa602bd-603c-464e-8704-b5c9149edcb3)
-    (at 151.243972 135.400346)
+    (at 150.663084 135.400346)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "motor-controller.kicad_sch")
