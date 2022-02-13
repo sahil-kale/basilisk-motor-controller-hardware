@@ -1,4 +1,6 @@
 (fp_lib_table
   (lib (name "motor-controller")(type "KiCad")(uri "C:/Users/Sahil/Documents/GitHub/basilisk-motor-controller-hardware/motor-controller.pretty")(options "")(descr ""))
   (lib (name "motor-controller-footprints")(type "KiCad")(uri "${KIPRJMOD}/motor-controller-footprints.pretty")(options "")(descr ""))
+  (lib (name "eec")(type "KiCad")(uri "${KIPRJMOD}/external_libs/Trans_EPC_EPC2206/eec.pretty")(options "")(descr ""))
+  (lib (name "LMG1205YFXR")(type "KiCad")(uri "${KIPRJMOD}/external_libs/LMG1205YFXR.pretty")(options "")(descr ""))
 )

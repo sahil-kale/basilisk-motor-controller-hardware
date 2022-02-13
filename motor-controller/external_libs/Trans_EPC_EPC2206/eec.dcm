@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EPC2206
+D EPC2206
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2206_datasheet.pdf
+$ENDCMP
+# end doc library
