@@ -1678,10 +1678,6 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 9722d2f5-c8bd-41ba-9be1-3a3738e13a86)
   )
-  (wire (pts (xy 154.94 33.02) (xy 154.94 38.1))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid 977b34ce-1a91-49ad-ad8c-b5239b1d9c44)
-  )
   (wire (pts (xy 110.49 104.14) (xy 113.03 104.14))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 98c7ddc2-0ffb-4916-8592-b1e086d49879)
@@ -1877,10 +1873,6 @@
   (wire (pts (xy 115.57 88.9) (xy 118.11 88.9))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid ced90d05-6203-4e79-a04e-06bb140fcd38)
-  )
-  (wire (pts (xy 154.94 43.18) (xy 154.94 52.07))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid cf31a4a3-c7ba-4c03-96e2-c83142e9890c)
   )
   (wire (pts (xy 162.56 129.54) (xy 160.02 129.54))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -2495,44 +2487,6 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 4f8f4c7c-af07-4ede-b2e5-9be6a7da67dd))
-  )
-
-  (symbol (lib_id "Device:C_Small") (at 154.94 40.64 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
-    (uuid 0cc1900c-723b-4f29-9608-2a30b58df409)
-    (property "Reference" "C16" (id 0) (at 157.2641 39.7378 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "10uF" (id 1) (at 157.2641 42.5129 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Capacitor_SMD:C_1206_3216Metric" (id 2) (at 154.94 40.64 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (id 3) (at 154.94 40.64 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Digikey Part Num" "1276-6736-1-ND" (id 4) (at 154.94 40.64 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid c06e9204-f81f-417d-b8eb-522a55899c6a))
-    (pin "2" (uuid a300fe40-7e4d-4fb4-808e-2a6aacbf719f))
-  )
-
-  (symbol (lib_id "power:GND") (at 154.94 52.07 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
-    (uuid 1764d985-3276-44d4-9601-8161e4e5f363)
-    (property "Reference" "#PWR0108" (id 0) (at 154.94 58.42 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (id 1) (at 154.94 56.6325 0))
-    (property "Footprint" "" (id 2) (at 154.94 52.07 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (id 3) (at 154.94 52.07 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 16ec7906-bcd8-4620-9ab5-8e13d91ee7f8))
   )
 
   (symbol (lib_id "power:GND") (at 114.3 52.07 0) (unit 1)
@@ -4122,22 +4076,6 @@
     (pin "2" (uuid 9202b515-e8d4-4147-bafa-6b1c279c7f16))
   )
 
-  (symbol (lib_id "power:VBUS") (at 154.94 33.02 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
-    (uuid cdc98f98-c59b-4184-901d-dc51bdcde9fa)
-    (property "Reference" "#PWR0111" (id 0) (at 154.94 36.83 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "VBUS" (id 1) (at 154.94 29.4155 0))
-    (property "Footprint" "" (id 2) (at 154.94 33.02 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (id 3) (at 154.94 33.02 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 941468e6-0036-421e-857d-1014c87ec7e5))
-  )
-
   (symbol (lib_id "power:VBUS") (at 152.4 86.36 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ce3bcda2-d082-43a5-80c0-6489352777ea)
@@ -4497,17 +4435,11 @@
     (path "/ce3bcda2-d082-43a5-80c0-6489352777ea"
       (reference "#PWR0107") (unit 1) (value "VBUS") (footprint "")
     )
-    (path "/1764d985-3276-44d4-9601-8161e4e5f363"
-      (reference "#PWR0108") (unit 1) (value "GND") (footprint "")
-    )
     (path "/b86dabc5-a078-41e9-9da0-7b7feda7d0a9"
       (reference "#PWR0109") (unit 1) (value "GND") (footprint "")
     )
     (path "/6e143793-c009-4b12-aafa-0139e8d29657"
       (reference "#PWR0110") (unit 1) (value "VBUS") (footprint "")
-    )
-    (path "/cdc98f98-c59b-4184-901d-dc51bdcde9fa"
-      (reference "#PWR0111") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/2857d539-20d0-4a12-b8ce-7f075a7481fc"
       (reference "#PWR0112") (unit 1) (value "GND") (footprint "")
@@ -4533,14 +4465,8 @@
     (path "/a64d3074-4d79-49a2-86f7-39249c3118cd/a146c82d-2a8e-4bb9-8eeb-eec91529788d"
       (reference "#PWR0119") (unit 1) (value "+3V3") (footprint "")
     )
-    (path "/a64d3074-4d79-49a2-86f7-39249c3118cd/ee4fcd8e-9cb9-44a0-b7b1-83a1a5a43353"
-      (reference "#PWR0120") (unit 1) (value "+3V3") (footprint "")
-    )
     (path "/a64d3074-4d79-49a2-86f7-39249c3118cd/a8b9a906-ebdd-405c-a29b-5d4111eb202e"
       (reference "#PWR0121") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/a64d3074-4d79-49a2-86f7-39249c3118cd/b5028a48-87d2-4b03-9592-e522058ec45e"
-      (reference "#PWR0122") (unit 1) (value "GND") (footprint "")
     )
     (path "/a64d3074-4d79-49a2-86f7-39249c3118cd/88d74181-d443-4061-b810-8c9d38e5ab60"
       (reference "#PWR0123") (unit 1) (value "GND") (footprint "")
@@ -4662,14 +4588,8 @@
     (path "/a64d3074-4d79-49a2-86f7-39249c3118cd/2e04caf5-d5ea-4a29-a35f-637c9aa19047"
       (reference "C13") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
-    (path "/a64d3074-4d79-49a2-86f7-39249c3118cd/397b5ee8-5e1a-484b-a460-f7a37a322fed"
-      (reference "C14") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
-    )
     (path "/3e38b5c3-471d-4afe-95dd-e76c4c1efce5"
       (reference "C15") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
-    )
-    (path "/0cc1900c-723b-4f29-9608-2a30b58df409"
-      (reference "C16") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
     )
     (path "/9ca51022-3b91-44b5-80b7-5ad984fdfd44"
       (reference "C17") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
