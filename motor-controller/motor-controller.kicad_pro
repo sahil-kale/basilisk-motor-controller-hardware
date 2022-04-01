@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.381
         }
       },
       "diff_pair_dimensions": [
@@ -413,9 +413,7 @@
           "/controller/NRST",
           "/controller/PWM_IN",
           "/controller/SWCLK",
-          "/controller/SWDIO",
-          "/controller/UART_RX",
-          "/controller/UART_TX"
+          "/controller/SWDIO"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
